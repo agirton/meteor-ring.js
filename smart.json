@@ -1,0 +1,9 @@
+{
+  "name": "ring.js",
+  "description": "JavaScript Class System with Multiple Inheritance.",
+  "homepage": "https://github.com/agirton/meteor-ring.js",
+  "author": "Adam Girton",
+  "version": "2.0.0-beta.1",
+  "git": "https://github.com/agirton/meteor-ring.git",
+  "packages": {}
+}
